@@ -96,23 +96,6 @@ Interactive analog clock allows users to:
 - Toggle AM/PM
 - Receive browser workout notifications
 
----
-
-### 🔔 Browser Notifications
-
-Supports workout reminders using the Notification API.
-
-If notifications are blocked, ForgeFit informs the user.
-
----
-
-### 🌙 Dark Mode
-
-One-click Light/Dark theme toggle.
-
-Theme preference is automatically saved using Local Storage.
-
----
 
 ### 🔍 Filter & Sort
 
@@ -138,69 +121,6 @@ ForgeFit stores data using Local Storage:
 - Daily Goals
 - Theme Preference
 
-Data remains available after refreshing the page.
-
----
-
-### 📱 Responsive Design
-
-Designed for:
-
-- Desktop
-- Tablet
-- Mobile
-
-The layout automatically adapts to different screen sizes.
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- Vanilla JavaScript (ES6)
-- Chart.js
-- Local Storage API
-- Browser Notification API
-
----
-
-## 📂 Project Structure
-
-```
-forgefit/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/forgefit.git
-```
-
-### Run the Project
-
-Since this project is built using HTML, CSS, and JavaScript only, no installation or dependencies are required.
-
-**Option 1**
-
-Open `index.html` directly in your browser.
-
-**Option 2 (Recommended)**
-
-1. Open the project in Visual Studio Code.
-2. Install the **Live Server** extension.
-3. Right-click `index.html`.
-4. Select **Open with Live Server**.
-
 ---
 
 ## 💡 Project Highlights
@@ -217,28 +137,6 @@ Open `index.html` directly in your browser.
 - Persistent Local Storage
 - Responsive user interface
 
----
-
-## 📖 Learning Outcomes
-
-This project demonstrates practical implementation of:
-
-- DOM Manipulation
-- Event Handling
-- Responsive Web Design
-- Local Storage
-- Data Persistence
-- Chart.js Integration
-- Notification API
-- BMI Calculation
-- Progress Tracking
-- Theme Switching
-- Form Validation
-- Modern JavaScript
-- CSS Variables
-- Flexbox & CSS Grid
-
----
 
 ## 🔮 Future Improvements
 
@@ -251,13 +149,5 @@ This project demonstrates practical implementation of:
 - User authentication
 - Export workout history
 - AI-powered fitness suggestions
-
----
-
-## 👩‍💻 Author
-
-**Jaanvi Vohra**
-
-GitHub: https://github.com/jaanvi-vohra
 
 ---
