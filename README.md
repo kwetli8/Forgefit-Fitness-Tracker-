@@ -1,8 +1,5 @@
 # 💪 ForgeFit
 
-ForgeFit is a modern and responsive **Fitness Tracker Web Application** built using **HTML, CSS, and Vanilla JavaScript**. It helps users monitor workouts, calculate calories burned, track BMI, visualize progress, and stay motivated through personalized fitness insights.
-
----
 
 ## ✨ Features
 
@@ -251,10 +248,6 @@ This project demonstrates practical implementation of:
 - User authentication
 - Export workout history
 - AI-powered fitness suggestions
-
----
-
-## 👩‍💻 Author
 
 **Jaanvi Vohra**
 
